@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EddyProject.API.props" />
+</Project>
