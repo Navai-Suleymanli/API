@@ -25,7 +25,6 @@ public class ApplicationDbContext : IdentityDbContext<IdentityUser, IdentityRole
     // fileni yaradib, databaseni configure edirik
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseSqlite("Filename = EddyDatabase.db");
         base.OnConfiguring(optionsBuilder);     
     }
 

@@ -12,17 +12,3 @@ C:\Users\User\source\repos\EddyProject\src\Eddyproject.Common\obj\Debug\net7.0\r
 C:\Users\User\source\repos\EddyProject\src\Eddyproject.Common\obj\Debug\net7.0\Eddyproject.Common.pdb
 C:\Users\User\source\repos\EddyProject\src\Eddyproject.Common\obj\Debug\net7.0\Eddyproject.Common.genruntimeconfig.cache
 C:\Users\User\source\repos\EddyProject\src\Eddyproject.Common\obj\Debug\net7.0\ref\Eddyproject.Common.dll
-D:\HackBros\Eddy-Web-API-\src\Eddyproject.Common\bin\Debug\net7.0\Eddyproject.Common.deps.json
-D:\HackBros\Eddy-Web-API-\src\Eddyproject.Common\bin\Debug\net7.0\Eddyproject.Common.runtimeconfig.json
-D:\HackBros\Eddy-Web-API-\src\Eddyproject.Common\bin\Debug\net7.0\Eddyproject.Common.dll
-D:\HackBros\Eddy-Web-API-\src\Eddyproject.Common\bin\Debug\net7.0\Eddyproject.Common.pdb
-D:\HackBros\Eddy-Web-API-\src\Eddyproject.Common\obj\Debug\net7.0\Eddyproject.Common.csproj.AssemblyReference.cache
-D:\HackBros\Eddy-Web-API-\src\Eddyproject.Common\obj\Debug\net7.0\Eddyproject.Common.GeneratedMSBuildEditorConfig.editorconfig
-D:\HackBros\Eddy-Web-API-\src\Eddyproject.Common\obj\Debug\net7.0\Eddyproject.Common.AssemblyInfoInputs.cache
-D:\HackBros\Eddy-Web-API-\src\Eddyproject.Common\obj\Debug\net7.0\Eddyproject.Common.AssemblyInfo.cs
-D:\HackBros\Eddy-Web-API-\src\Eddyproject.Common\obj\Debug\net7.0\Eddyproject.Common.csproj.CoreCompileInputs.cache
-D:\HackBros\Eddy-Web-API-\src\Eddyproject.Common\obj\Debug\net7.0\Eddyproject.Common.dll
-D:\HackBros\Eddy-Web-API-\src\Eddyproject.Common\obj\Debug\net7.0\refint\Eddyproject.Common.dll
-D:\HackBros\Eddy-Web-API-\src\Eddyproject.Common\obj\Debug\net7.0\Eddyproject.Common.pdb
-D:\HackBros\Eddy-Web-API-\src\Eddyproject.Common\obj\Debug\net7.0\Eddyproject.Common.genruntimeconfig.cache
-D:\HackBros\Eddy-Web-API-\src\Eddyproject.Common\obj\Debug\net7.0\ref\Eddyproject.Common.dll

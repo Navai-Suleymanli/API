@@ -1,0 +1,27 @@
+2023-03-16 17:28:33.174 +04:00 [INF] Executed DbCommand (26ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "type" = 'table' AND "rootpage" IS NOT NULL;
+2023-03-16 17:28:33.809 +04:00 [INF] User profile is available. Using 'C:\Users\User\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-03-16 17:28:34.256 +04:00 [INF] Now listening on: https://localhost:7238
+2023-03-16 17:28:34.256 +04:00 [INF] Now listening on: http://localhost:5142
+2023-03-16 17:28:34.258 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-03-16 17:28:34.259 +04:00 [INF] Hosting environment: Development
+2023-03-16 17:28:34.259 +04:00 [INF] Content root path: C:\Users\User\source\repos\EddyProject\src\EddyProject.API
+2023-03-16 17:28:35.219 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7238/swagger/index.html - -
+2023-03-16 17:28:35.551 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7238/swagger/index.html - - - 200 - text/html;charset=utf-8 334.1191ms
+2023-03-16 17:28:35.655 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7238/_vs/browserLink - -
+2023-03-16 17:28:35.655 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7238/_framework/aspnetcore-browser-refresh.js - -
+2023-03-16 17:28:35.667 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7238/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 12.3749ms
+2023-03-16 17:28:35.764 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7238/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 109.4196ms
+2023-03-16 17:28:35.981 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7238/swagger/v1/swagger.json - -
+2023-03-16 17:28:36.116 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7238/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 135.2414ms
+2023-03-16 17:29:00.480 +04:00 [INF] Request starting HTTP/2 POST https://localhost:7238/api/student/Create application/json 84
+2023-03-16 17:29:00.836 +04:00 [INF] Executing endpoint 'EddyProject.API.Controllers.StudentController.CreateStudent (EddyProject.API)'
+2023-03-16 17:29:00.891 +04:00 [INF] Route matched with {action = "CreateStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateStudent(Eddyproject.Common.Dtos.Student.StudentCreate) on controller EddyProject.API.Controllers.StudentController (EddyProject.API).
+2023-03-16 17:29:01.815 +04:00 [INF] Executed DbCommand (8ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT "a"."Id", "a"."City", "a"."Country", "a"."Email", "a"."Phone"
+FROM "Adresses" AS "a"
+WHERE "a"."Id" = @__id_0
+LIMIT 2
+2023-03-16 17:29:02.003 +04:00 [INF] Executed action EddyProject.API.Controllers.StudentController.CreateStudent (EddyProject.API) in 1106.7889ms
+2023-03-16 17:29:02.005 +04:00 [INF] Executed endpoint 'EddyProject.API.Controllers.StudentController.CreateStudent (EddyProject.API)'
+2023-03-16 17:29:02.033 +04:00 [INF] Request finished HTTP/2 POST https://localhost:7238/api/student/Create application/json 84 - 400 - - 1553.9105ms

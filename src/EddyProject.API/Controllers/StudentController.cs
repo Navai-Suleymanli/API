@@ -11,9 +11,12 @@ namespace EddyProject.API.Controllers;
 public class StudentController : ControllerBase
 {
     private IStudentService StudentService { get; }
-    public StudentController(IStudentService studentService)
+    private ILogger<StudentController> Logger { get; }
+
+    public StudentController(IStudentService studentService, ILogger<StudentController> logger)
     {
         StudentService = studentService;
+        Logger = logger;
     }
 
     [HttpPost]
@@ -44,6 +47,7 @@ public class StudentController : ControllerBase
     [Route("Get/{id}")]
     public async Task<IActionResult> GetStudent(int id)
     {
+        Logger.LogInformation("The student was called with id", id);
         var student = await StudentService.GetStudentAsync(id);
         return Ok(student);
     }

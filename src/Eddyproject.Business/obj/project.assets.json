@@ -1661,11 +1661,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HackBros\\Eddy-Web-API-\\src\\Eddyproject.Business\\Eddyproject.Business.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\EddyProject\\src\\Eddyproject.Business\\Eddyproject.Business.csproj",
       "projectName": "Eddyproject.Business",
-      "projectPath": "D:\\HackBros\\Eddy-Web-API-\\src\\Eddyproject.Business\\Eddyproject.Business.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\EddyProject\\src\\Eddyproject.Business\\Eddyproject.Business.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\HackBros\\Eddy-Web-API-\\src\\Eddyproject.Business\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\EddyProject\\src\\Eddyproject.Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1682,11 +1682,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\HackBros\\Eddy-Web-API-\\src\\Eddyproject.Common\\Eddyproject.Common.csproj": {
-              "projectPath": "D:\\HackBros\\Eddy-Web-API-\\src\\Eddyproject.Common\\Eddyproject.Common.csproj"
+            "C:\\Users\\User\\source\\repos\\EddyProject\\src\\Eddyproject.Common\\Eddyproject.Common.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\EddyProject\\src\\Eddyproject.Common\\Eddyproject.Common.csproj"
             },
-            "D:\\HackBros\\Eddy-Web-API-\\src\\Eddyproject.Infrastructure\\Eddyproject.Infrastructure.csproj": {
-              "projectPath": "D:\\HackBros\\Eddy-Web-API-\\src\\Eddyproject.Infrastructure\\Eddyproject.Infrastructure.csproj"
+            "C:\\Users\\User\\source\\repos\\EddyProject\\src\\Eddyproject.Infrastructure\\Eddyproject.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\EddyProject\\src\\Eddyproject.Infrastructure\\Eddyproject.Infrastructure.csproj"
             }
           }
         }

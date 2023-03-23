@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Infrastructure\bin\Release\net7.0\Eddyproject.Infrastructure.deps.json
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Infrastructure\bin\Release\net7.0\Eddyproject.Infrastructure.runtimeconfig.json
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Infrastructure\bin\Release\net7.0\Eddyproject.Infrastructure.dll
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Infrastructure\bin\Release\net7.0\Eddyproject.Infrastructure.pdb
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Infrastructure\bin\Release\net7.0\Eddyproject.Common.dll
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Infrastructure\bin\Release\net7.0\Eddyproject.Common.pdb
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Infrastructure\obj\Release\net7.0\Eddyproject.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Infrastructure\obj\Release\net7.0\Eddyproject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Infrastructure\obj\Release\net7.0\Eddyproject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Infrastructure\obj\Release\net7.0\Eddyproject.Infrastructure.AssemblyInfo.cs
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Infrastructure\obj\Release\net7.0\Eddyproject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Infrastructure\obj\Release\net7.0\Eddyproject.Infrastructure.csproj.CopyComplete
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Infrastructure\obj\Release\net7.0\Eddyproject.Infrastructure.dll
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Infrastructure\obj\Release\net7.0\refint\Eddyproject.Infrastructure.dll
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Infrastructure\obj\Release\net7.0\Eddyproject.Infrastructure.pdb
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Infrastructure\obj\Release\net7.0\Eddyproject.Infrastructure.genruntimeconfig.cache
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Infrastructure\obj\Release\net7.0\ref\Eddyproject.Infrastructure.dll

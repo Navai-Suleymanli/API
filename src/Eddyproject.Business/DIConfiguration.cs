@@ -1,5 +1,7 @@
 ﻿using Eddyproject.Business.Services;
+using Eddyproject.Business.Validation;
 using Eddyproject.Common.Interfaces;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -18,5 +20,14 @@ public class DIConfiguration
         services.AddScoped<IBudgetService, BudgetService>();
         services.AddScoped<IStudentService, StudentService>();
         services.AddScoped<ICourseService, CourseService>();
+
+        services.AddScoped<AddressCreateValidator>();
+        services.AddScoped<AddressUpdateValidator>();
+        services.AddScoped<BudgetCreateValidator>();
+        services.AddScoped<BudgetUpdateValidator>();
+        services.AddScoped<CourseCreateValidator>();
+        services.AddScoped<CourseUpdateValidator>();
+        services.AddScoped<StudentCreateValidator>();
+        services.AddScoped<StudentUpdateValidator>();
     }
 }

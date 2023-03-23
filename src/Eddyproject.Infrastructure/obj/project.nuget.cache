@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xidDIe6SXRDGFtttBXT8fRzV1pV8GZAB17OStmDOKlBTqnGd/yBsjxvoSX8SdOKePdj3B+diIfl1lXAMuufYOQ==",
+  "dgSpecHash": "Cr1AqwxnXGv0h6/86CPAvWVDXVfgtMIhNEeEqkmp8a+WU1OW23nuUt63TtiDuT9OeddpbdNYsdmdooA+WbRvTw==",
   "success": true,
-  "projectFilePath": "D:\\HackBros\\Eddy-Web-API-\\src\\Eddyproject.Infrastructure\\Eddyproject.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\EddyProject\\src\\Eddyproject.Infrastructure\\Eddyproject.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

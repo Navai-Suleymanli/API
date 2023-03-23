@@ -12,4 +12,9 @@ public class StudentUpdateValidator : AbstractValidator<StudentCreate>
         RuleFor(studentUpdate => studentUpdate.LastName).NotEmpty().MaximumLength(50);
 
     }
+
+    internal Task ValidateAsync(StudentUpdate studentUpdate)
+    {
+        throw new NotImplementedException();
+    }
 }

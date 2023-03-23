@@ -1602,11 +1602,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HackBros\\Eddy-Web-API-\\src\\Eddyproject.Infrastructure\\Eddyproject.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\EddyProject\\src\\Eddyproject.Infrastructure\\Eddyproject.Infrastructure.csproj",
       "projectName": "Eddyproject.Infrastructure",
-      "projectPath": "D:\\HackBros\\Eddy-Web-API-\\src\\Eddyproject.Infrastructure\\Eddyproject.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\EddyProject\\src\\Eddyproject.Infrastructure\\Eddyproject.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\HackBros\\Eddy-Web-API-\\src\\Eddyproject.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\EddyProject\\src\\Eddyproject.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1623,8 +1623,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\HackBros\\Eddy-Web-API-\\src\\Eddyproject.Common\\Eddyproject.Common.csproj": {
-              "projectPath": "D:\\HackBros\\Eddy-Web-API-\\src\\Eddyproject.Common\\Eddyproject.Common.csproj"
+            "C:\\Users\\User\\source\\repos\\EddyProject\\src\\Eddyproject.Common\\Eddyproject.Common.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\EddyProject\\src\\Eddyproject.Common\\Eddyproject.Common.csproj"
             }
           }
         }

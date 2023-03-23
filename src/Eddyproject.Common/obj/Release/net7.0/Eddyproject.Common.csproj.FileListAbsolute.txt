@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Common\bin\Release\net7.0\Eddyproject.Common.deps.json
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Common\bin\Release\net7.0\Eddyproject.Common.runtimeconfig.json
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Common\bin\Release\net7.0\Eddyproject.Common.dll
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Common\bin\Release\net7.0\Eddyproject.Common.pdb
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Common\obj\Release\net7.0\Eddyproject.Common.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Common\obj\Release\net7.0\Eddyproject.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Common\obj\Release\net7.0\Eddyproject.Common.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Common\obj\Release\net7.0\Eddyproject.Common.AssemblyInfo.cs
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Common\obj\Release\net7.0\Eddyproject.Common.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Common\obj\Release\net7.0\Eddyproject.Common.dll
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Common\obj\Release\net7.0\refint\Eddyproject.Common.dll
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Common\obj\Release\net7.0\Eddyproject.Common.pdb
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Common\obj\Release\net7.0\Eddyproject.Common.genruntimeconfig.cache
+C:\Users\User\source\repos\EddyProject\src\Eddyproject.Common\obj\Release\net7.0\ref\Eddyproject.Common.dll

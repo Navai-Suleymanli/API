@@ -1407,11 +1407,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HackBros\\Eddy-Web-API-\\src\\Eddyproject.Common\\Eddyproject.Common.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\EddyProject\\src\\Eddyproject.Common\\Eddyproject.Common.csproj",
       "projectName": "Eddyproject.Common",
-      "projectPath": "D:\\HackBros\\Eddy-Web-API-\\src\\Eddyproject.Common\\Eddyproject.Common.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\EddyProject\\src\\Eddyproject.Common\\Eddyproject.Common.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\HackBros\\Eddy-Web-API-\\src\\Eddyproject.Common\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\EddyProject\\src\\Eddyproject.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

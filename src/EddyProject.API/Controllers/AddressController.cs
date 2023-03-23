@@ -1,10 +1,13 @@
 ﻿using Eddyproject.Common.Dtos.Address;
 using Eddyproject.Common.Interfaces;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 namespace EddyProject.API.Controllers;
 
 [ApiController]
+[Authorize]
 [Route("api/address")]
 
 public class AddressController : ControllerBase
@@ -37,7 +40,7 @@ public class AddressController : ControllerBase
         await AddressService.DeleteAddressAsync(addressDelete);
         return Ok();
     }
-
+    [EnableCors("Policy1")]
     [HttpGet("GetById")]
     public async Task<IActionResult> GetAddress(int id)
     {
@@ -45,10 +48,17 @@ public class AddressController : ControllerBase
         return Ok(address);
     }
 
+    [EnableCors("AnotherPolicy")]
     [HttpGet("Get")]
   //  [Route("Get")]
     public async Task<IActionResult> GetAddresses()
     {
+        var whitelist = new List<string>() { "khatai.suleymanli05@gmail.com" };
+        var email = HttpContext.User.Claims.First(c => c.Type == "Preffered_username").Value;
+
+        if (!whitelist.Contains(email))
+            return new ForbidResult();
+
         var addresses = await AddressService.GetAddressesAsync();
         return Ok(addresses);
     }
